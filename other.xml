@@ -1,0 +1,17 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://gitlab.com/faranegar/react-native/react-native-carpet" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://gitlab.com/faranegar/react-native/react-native-carpet" />
+      </list>
+    </option>
+  </component>
+</application>
