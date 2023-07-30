@@ -48,7 +48,8 @@ body{
 	cursor: pointer;
 }
 #words h1{
-	font-size: 3em;
+	font-size: 2.5em;
+	direction: rtl;
 	margin-top: 0.5em;
 	margin-bottom: 0;
 	line-height: 1.5em;
