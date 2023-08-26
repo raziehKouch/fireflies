@@ -1,7 +1,7 @@
 @font-face{
-	font-family: 'Goudy';
+	font-family: 'BRoya';
 	font-style: normal;
-	src: url('GoudyStM-webfont.ttf') format('truetype');
+	src: url('BRoya.ttf') format('truetype');
 }
 @font-face {
 	font-family: 'Goudy';
@@ -34,7 +34,7 @@ body{
 	background: rgba(0,0,0,0.5);
 
 	/* Font */
-	font-family: 'Goudy';
+	font-family: 'BRoya';
     direction: rtl;
 	font-size: 20px;
 	line-height: 1.5em;
