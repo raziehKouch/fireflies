@@ -77,9 +77,11 @@ body{
 }
 #credits a{
 	color: #bbb;
+	text-decoration: none;
 }
 #credits a:hover{
 	color: #fff;
+	text-decoration: none;
 }
 
 #patreon{
