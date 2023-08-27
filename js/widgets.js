@@ -56,6 +56,7 @@ Widgets.toggle = function(config){
 	var label = document.createElement("div");
 	label.id = "label";
 	label.innerHTML = config.label;
+	label.fontSize = 10;
 	dom.appendChild(label);
 
 	// Toggle
